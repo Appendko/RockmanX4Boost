@@ -1,6 +1,7 @@
 ﻿##ROCKMANX4 BOOST (JP) Ver 2016.08.12 (原 "敵加速‧改 Ver2") 使用說明 
 - [PC版CheatEngine Trainer下載](https://goo.gl/8xxrPe)
 - [PS版PCSX-ReRecording+LuaScript下載](https://goo.gl/HVMISi) 
+
 註：必須搭配日版遊戲使用。
 
 --------------------------------------
