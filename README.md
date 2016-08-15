@@ -1,6 +1,7 @@
-﻿##ROCKMANX4 BOOST (JP) Ver 2016.08.12 (原 "敵加速‧改 Ver2") 使用說明 
-- [PC版CheatEngine Trainer下載](https://goo.gl/8xxrPe)
-- [PS版PCSX-ReRecording+LuaScript下載](https://goo.gl/HVMISi) 
+﻿##ROCKMANX4 BOOST (JP) Ver 2016.08.14 (原 "敵加速‧改 Ver2") 使用說明 
+- [PC版CheatEngine Trainer下載](https://goo.gl/QGURGs)
+- [PS版PCSX-ReRecording+LuaScript下載](https://goo.gl/WNMZVF) 
+- [PS版LuaScript下載](https://goo.gl/f8qz2U) 如果已經有下載過先前版本的可以選這個更新
 
 註：必須搭配日版遊戲使用。
 
@@ -11,13 +12,21 @@
 (2) 逆襲戰打倒任何一隻頭目後會把HP補滿。
 
 #推薦攻略順序：
-X: 魟魚→火龍→蜘蛛→之後任意
+(魟魚打不贏可以拿了E就先離開，重點是拿E。)
+(孔雀的E如果拿不到可以等靈魂分身/空圓斬之後再來。)
+
+X: 魟魚(E)→火龍→蜘蛛→之後任意
 請務必在打卡尼爾之前取得腳部裝備。(無腳部打得贏，但是相當痛苦。)
 
-Zero:魟魚→火龍→孔雀→貓頭鷹→蜘蛛→磨菇→海象→獅子
+Zero:魟魚(E)→火龍→孔雀→貓頭鷹→蜘蛛→磨菇→海象→獅子
 
 #已知Bug；
 (1) 貓頭鷹關中頭目：如果用究鎧Nova清怪會發現破圖，然後Boss區域的Warning不會結束。
+
+#已修正Bug: 
+(1) PC版中孔雀關Area 1的後兩個區域中Game Over/Escape導致遊戲當掉。Ver 20160814已修正，PS版雖然沒這個問題不過同步修改。
+(2) 火龍關Area 2火球貼圖錯誤。Ver 20160814已修正。
+
 
 --------------------------------------
 
@@ -28,7 +37,7 @@ Zero:魟魚→火龍→孔雀→貓頭鷹→蜘蛛→磨菇→海象→獅子
 附上方便的補E機制，沒事多喝E，多喝E沒事。
 部分頭目改造過後變得非常困難，請妥善分配關卡順序。
 
-操作方式非常容易，開啟遊戲之後，打開修改器 RMX4BOOST_JP_Ver_20160812.EXE ，(或是安裝Cheat Engine後開啟.CT檔)
+操作方式非常容易，開啟遊戲之後，打開修改器 RMX4BOOST_JP_Ver_20160814.EXE ，(或是安裝Cheat Engine後開啟.CT檔)
 按下Ctrl+A，看到BOOST字樣變紅就可以了。
 
 --------------------------------------
@@ -52,7 +61,7 @@ CD-ROM(要載入的X4映像檔要在這裡設定)
 (2) 讀取程式碼
 File->Lua Scripting->New Lua Script Window，
 (或是在打開遊戲後按Ctrl-L叫出這個視窗)
-Browse選擇x4boost-20160812.lua，進入遊戲後點選run。
+Browse選擇x4boost-20160814.lua，進入遊戲後點選run。
 
 (3) File->Run CD開始進行遊戲
 請注意PCSX-RR似乎沒有辦法在遊戲中回到設定畫面。
@@ -63,7 +72,7 @@ Browse選擇x4boost-20160812.lua，進入遊戲後點選run。
 
 以上，祝各位玩家武運昌隆。
 
-Append (鴉片) 2016.08.12
+Append (鴉片) 2016.08.14
 
 Email: Append@gmail.com
 
