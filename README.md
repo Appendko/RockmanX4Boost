@@ -1,6 +1,6 @@
 ![RockmanX4 BOOST logo](https://raw.githubusercontent.com/Appendko/RockmanX4Boost/master/RMX4_Boost_Logo.png)
 
-#RockmanX4 BOOST (JP) Ver 2016.08.14
+# RockmanX4 BOOST Ver 2016.08.14
 
 - (PS) [PCSX-ReRecording+LuaScript](https://goo.gl/WNMZVF)
 - (PS) [LuaScript Only](https://goo.gl/f8qz2U) 
@@ -12,7 +12,7 @@ This version only works on Japanese version.
 
 --------------------------------------
 
-##Introduction
+## Introduction
 
 RockmanX4 BOOST is a fan-made mod of Rockman X4 (japanese version of Mega Man X4).  
 In contrast to most of the ROM-hacks, this mod is done by directly write some bytes into memory blocks.  
@@ -34,12 +34,12 @@ hence, please don't hesitate give it a try if you're interested in MMX4!
 
 --------------------------------------
 
-##Usage
+## Usage
 This mod is implemented for PS version first, then ported to PC version using CheatEngine.  
 I personally suggest PS version for stability issues; there is still a small chance to crash in PC version.  
 
 
-##Usage: PS Version
+## Usage: PS Version
 For PS version, I use the Lua Script feature in PCSX-ReRecording(pcsx-rr) to control the memory.  
 
 (1) Setup pcsx-rr: Configuration -> Plugins & Bios  
@@ -64,7 +64,7 @@ and you can see the status in the Output Console in the Lua Script window.
 Hint: Press Start+Select for 5 seconds and you can return to Title screen anytime.  
 
 
-##Usage: PC Version
+## Usage: PC Version
 For PC version, I use CheatEngine to write bytes into memory directly.  
 (Hence it would be alarmed by some anti-virus software. You can decide whether you trust CheatEngine or not.)  
 You can choose "CheatEngine Trainer Executable" to run the trainer without installing CheatEngine,  
@@ -77,11 +77,11 @@ You can press CTRL-A to switch on/off the mod anytime.
 
 --------------------------------------
 
-##New Feature
+## New Feature
 - Auto-Refill all subtanks everytime you die or you enter a stage/area. 
 - Auto-Refill Lifebar after each battle in the bosses refights.
 
-##Suggested order
+## Suggested order
 
 X: Jet Stingray -> Magma Dragoon -> Web Spidus -> Storm Fukuroul -> Anyone you like.  
 Z: Jet Stingray -> Magma Dragoon -> Cyber Kujacker -> Storm Fukuroul -> Web Spidus -> Split Mushroom -> Frost Kibatodos -> Slash BeastLeo  
@@ -91,12 +91,12 @@ Z: Jet Stingray -> Magma Dragoon -> Cyber Kujacker -> Storm Fukuroul -> Web Spid
 - If you're using Zero and cannot get the subtank in Cyberspace, try it again after you get the Kuuenzan.
 
 
-##Known Bugs  
+## Known Bugs  
 - Generaid Core: You may be unable to fight the Storm Owl if you use Ultimate armor X and performed Nova Strikes on Generaid Core.  
 
 --------------------------------------
 
-##THAT's ALL
+## THAT's ALL
 
 Yes, that's all.  
 **_May the subtanks be with you._**
