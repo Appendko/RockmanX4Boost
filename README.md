@@ -89,12 +89,13 @@ Z: Jet Stingray -> Magma Dragoon -> Cyber Kujacker -> Storm Fukuroul -> Web Spid
 - If you're using Zero and cannot get the subtank in Cyberspace, try it again after you get the Kuuenzan.
 
 
-##Known Bugs
+##Known Bugs  
 - Generaid Core: You may be unable to fight the Storm Owl if you use Ultimate armor X and performed Nova Strikes on Generaid Core.  
 
 --------------------------------------
 
 ##THAT's ALL
+
 Yes, that's all.  
 **_May the subtanks be with you._**
 
