@@ -101,9 +101,9 @@ Z: Jet Stingray -> Magma Dragoon -> Cyber Kujacker -> Storm Fukuroul -> Web Spid
 Yes, that's all.  
 **_May the subtanks be with you._**
 
-Append     
-Email: Append@gmail.com  
-Twitch: http://www.twitch.tv/append
-Facebook: https://www.facebook.com/Appendko/
+Append  
+- Email: Append@gmail.com  
+- Twitch: http://www.twitch.tv/append  
+- Facebook: https://www.facebook.com/Appendko/
 
 Last Update: June 21st, 2017
