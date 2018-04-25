@@ -95,8 +95,10 @@ boost_switch(boost) --Boost ON
 
 while true do
 key=input.get();
-if keypress==nil and key["A"]==true and key["control"]==true then
-	boost_switch(boost)
+if keypress==nil and key["A"]==true then
+    if key["LeftControl"]==true or key["RightControl"]==true then
+        boost_switch(boost)
+    end
 end
 if keypress==true and key["A"]~=true then
 	keypress=nil
