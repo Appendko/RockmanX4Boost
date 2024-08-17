@@ -95,7 +95,9 @@ boost_switch(boost) --Boost ON
 
 while true do
 key=input.get();
-if keypress==nil and key["A"]==true and key["control"]==true then
+-- If "MergeLAndRModifierKeys" is false in config, "LeftCtrl" or "RightCtrl" keycode will be assigned accordingly
+-- If "MergeLAndRModifierKeys" is true in config, "Ctrl" keycode will be assigned when any Ctrl key is pressed
+if keypress==nil and key["A"]==true and (key["LeftCtrl"]==true or key["RightCtrl"]==true or key["Ctrl"]==true) then
 	boost_switch(boost)
 end
 if keypress==true and key["A"]~=true then
